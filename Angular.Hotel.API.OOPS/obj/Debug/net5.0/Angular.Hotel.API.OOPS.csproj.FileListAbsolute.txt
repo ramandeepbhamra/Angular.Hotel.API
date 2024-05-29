@@ -1,0 +1,12 @@
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\obj\Debug\net5.0\Angular.Hotel.API.OOPS.csproj.AssemblyReference.cache
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\obj\Debug\net5.0\Angular.Hotel.API.OOPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\obj\Debug\net5.0\Angular.Hotel.API.OOPS.AssemblyInfoInputs.cache
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\obj\Debug\net5.0\Angular.Hotel.API.OOPS.AssemblyInfo.cs
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\obj\Debug\net5.0\Angular.Hotel.API.OOPS.csproj.CoreCompileInputs.cache
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\bin\Debug\net5.0\Angular.Hotel.API.OOPS.deps.json
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\bin\Debug\net5.0\Angular.Hotel.API.OOPS.dll
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\bin\Debug\net5.0\ref\Angular.Hotel.API.OOPS.dll
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\bin\Debug\net5.0\Angular.Hotel.API.OOPS.pdb
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\obj\Debug\net5.0\Angular.Hotel.API.OOPS.dll
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\obj\Debug\net5.0\ref\Angular.Hotel.API.OOPS.dll
+D:\Rummy Learning\Angular\Angular.Hotel.API\Angular.Hotel.API\Angular.Hotel.API.OOPS\obj\Debug\net5.0\Angular.Hotel.API.OOPS.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular.Hotel.API", "Angular.Hotel.API\Angular.Hotel.API.csproj", "{ECFD2D83-F6B1-4AC4-94E0-881B2A4F417F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Hotel.API.OOPS", "Angular.Hotel.API.OOPS\Angular.Hotel.API.OOPS.csproj", "{59F69980-F1EA-4D2F-A0C3-5EA7F13CFC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECFD2D83-F6B1-4AC4-94E0-881B2A4F417F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFD2D83-F6B1-4AC4-94E0-881B2A4F417F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFD2D83-F6B1-4AC4-94E0-881B2A4F417F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFD2D83-F6B1-4AC4-94E0-881B2A4F417F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F69980-F1EA-4D2F-A0C3-5EA7F13CFC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F69980-F1EA-4D2F-A0C3-5EA7F13CFC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F69980-F1EA-4D2F-A0C3-5EA7F13CFC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F69980-F1EA-4D2F-A0C3-5EA7F13CFC73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5314C67-C571-431F-A79E-37E60E4BCEC8}
+	EndGlobalSection
+EndGlobal
